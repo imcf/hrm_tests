@@ -2,10 +2,11 @@
 
 """Simple test script for the HRM class.
 
-Run it from the directory that contains 'HRM.py' after setting your
-PYTHONPATH accordingly:
+Run it from this directory after setting your PYTHONPATH accordingly:
 
-export PYTHONPATH=$PYTHONPATH:./
+export PYTHONPATH=$PYTHONPATH:../../lib/python/
+python test_HRM.py
+
 """
 
 try:
